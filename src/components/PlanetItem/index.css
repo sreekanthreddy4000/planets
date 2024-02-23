@@ -1,0 +1,22 @@
+.heading {
+  color: #05acff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  line-height: 1.5;
+}
+.image {
+  height: 100px;
+  width: 100px;
+}
+.planet-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  line-height: 1.3;
+}
+.description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  line-height: 0.5;
+}
